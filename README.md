@@ -19,7 +19,7 @@ Answer: Impossible. You need an apache server. CPanel, or VPS. You can run this 
 Answer: Yes. Please make sure you have use this code for educational purpose only. 
  #
 ### Watch How to Host
-[![name](https://res.cloudinary.com/dvsgwawfs/image/upload/v1664306702/rokibulroni-cdn/watch_pubdws.gif)](lhttps://www.youtube.com/embed/1PyXXWmMAJM)
+[![name](https://res.cloudinary.com/dvsgwawfs/image/upload/v1664306702/rokibulroni-cdn/watch_pubdws.gif)](https://www.youtube.com/embed/1PyXXWmMAJM)
 #
 ### Source Code Overview
 
